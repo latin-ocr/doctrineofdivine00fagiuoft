@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctrineofdivine00fagiuoft_0311.png"; bbox 0 0 2149 3089; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1852 163 2003 197">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1852 163 2003 197">
+     <span class='ocr_line' id='line_1_1' title="bbox 1852 163 2003 197; baseline 0.013 -9"><span class='ocrx_word' id='word_1_1' title='bbox 1852 178 1878 188; x_wconf 84' lang='lat'>-</span> <span class='ocrx_word' id='word_1_2' title='bbox 1903 163 1952 197; x_wconf 79' lang='lat'>10</span> <span class='ocrx_word' id='word_1_3' title='bbox 1978 180 2003 190; x_wconf 81' lang='grc'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 199 351 1903 494">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 199 351 1903 494">
+     <span class='ocr_line' id='line_1_2' title="bbox 199 351 1903 404; baseline 0.006 -17"><span class='ocrx_word' id='word_1_4' title='bbox 199 351 395 397; x_wconf 59' lang='lat' dir='ltr'>vausune,</span> <span class='ocrx_word' id='word_1_5' title='bbox 428 353 651 395; x_wconf 68' lang='lat' dir='ltr'><strong>eognnso1t</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 679 356 902 391; x_wconf 66' lang='lat' dir='ltr'><strong>creaturas</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 929 356 1176 392; x_wconf 60' lang='lat' dir='ltr'>intellectu</span> <span class='ocrx_word' id='word_1_8' title='bbox 1206 359 1477 401; x_wconf 65' lang='lat' dir='ltr'>apeou1at2vo</span> <span class='ocrx_word' id='word_1_9' title='bbox 1502 368 1579 403; x_wconf 77' lang='lat' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_10' title='bbox 1605 362 1780 404; x_wconf 71' lang='lat' dir='ltr'>npeo1em</span> <span class='ocrx_word' id='word_1_11' title='bbox 1805 372 1903 403; x_wconf 64' lang='lat' dir='ltr'>Qua·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 201 453 746 494; baseline 0.011 -7"><span class='ocrx_word' id='word_1_12' title='bbox 201 455 276 489; x_wconf 68' lang='lat' dir='ltr'>cot</span> <span class='ocrx_word' id='word_1_13' title='bbox 300 453 451 489; x_wconf 58' lang='lat' dir='ltr'>omnssum</span> <span class='ocrx_word' id='word_1_14' title='bbox 480 454 746 494; x_wconf 68' lang='lat' dir='ltr'>s1=111tudn.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
